@@ -4,7 +4,7 @@ using RepositoryPattern.EF;
 using RepositoryPattern.EF.Classes;
 
 var builder = WebApplication.CreateBuilder(args);
-
+//تيست
 // Add services to the container.
 
 builder.Services.AddControllers();
